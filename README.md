@@ -4,4 +4,4 @@ Simple business landing page with sections with strategy explanations, testimoni
 
 ![Grow your business](./assets/header.PNG)
 
-Deploy here ->
+Deploy here -> https://grow-your-business.vercel.app/
